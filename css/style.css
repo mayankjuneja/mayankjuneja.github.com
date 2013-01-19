@@ -1,0 +1,14 @@
+body{
+	font-family:arial;
+	font-size:15px;
+}
+A:link {text-decoration: none; color:#CC0000;/*font-weight:bold;*/}
+
+.bold_link {font-weight:bold;}
+A:visited {text-decoration: none; color:#CC0000;}
+A:active {text-decoration: none; color:#CC0000;}
+A:hover {text-decoration: underline; color: #9B0000;}
+
+#sidebar{
+	padding-top:10%;
+}
